@@ -53,6 +53,12 @@ Para este reto se `propone dos tablas: <strong>Reservas</strong> y <strong>Hués
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/91544872/173358015-a252c5cf-48a2-4285-907d-a69239e7c5a5.png">
 </p>
 
+
+### Video muestra del proyecto
+
+https://user-images.githubusercontent.com/105178312/193716224-0c4f54c7-1edb-4604-982f-56daff4dc42b.mp4
+
+
 🡆 <strong>Andres Dominguez</strong></br>
 <a href="https://www.linkedin.com/in/andres-dominguez-prog07/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
