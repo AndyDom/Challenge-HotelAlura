@@ -53,14 +53,14 @@ Para este reto se `propone dos tablas: <strong>Reservas</strong> y <strong>Hués
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/91544872/173358015-a252c5cf-48a2-4285-907d-a69239e7c5a5.png">
 </p>
 
-U+27A1 <strong>Andres Dominguez</strong></br>
+🡆 <strong>Andres Dominguez</strong></br>
 <a href="https://www.linkedin.com/in/andres-dominguez-prog07/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-U+27A1 <strong>Oracle</strong></br>
+🡆 <strong>Oracle</strong></br>
 <a href="https://www.linkedin.com/company/oracle/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-U+27A1 <strong>Alura Latam</strong></br>
+🡆 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
